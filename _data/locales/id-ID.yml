@@ -18,7 +18,7 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: Cari apa kayak ya ga ada
+  hint: Cari apa..
   cancel: Gak jadi
   no_results: Ups! Tidak ada hasil yang ditemukan.
 
@@ -74,4 +74,4 @@ post:
 # categories page
 categories:
   category_measure: kategori
-  post_measure: Postingan
+  post_measure: postingan
