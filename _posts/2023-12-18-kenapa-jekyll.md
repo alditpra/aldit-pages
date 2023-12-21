@@ -1,5 +1,5 @@
 ---
-title: ! 'Kenapa Saya Pilih Jekyll Untuk Situs Ini'
+title: ! 'Mengapa Saya Pilih Jekyll untuk Situs Ini'
 date: 2023-12-18 01:01:00 +0700
 categories: [Web dan Server, Static Site]
 tags: [blogging]
@@ -9,33 +9,31 @@ image:
   path: https://repository-images.githubusercontent.com/65252/f2b7c780-70b6-11e9-85d2-f4bda8708a2d
   alt: gambar logo jekyll dari repositorynya
 ---
+Dalam dunia pengembangan web, pemilihan platform dan alat yang tepat dapat memainkan peran penting dalam pengalaman pembuatan dan pemeliharaan situs web. Dalam blog post ini, saya ingin berbagi alasan mengapa saya memilih Jekyll sebagai platform untuk situs ini.
 
-Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis atau misal yang menggunakan sistem manajemen konten seperti WordPress. 
+Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Yang berarti tidak ada pemrosesan server saat pengguna mengunjungi situs. Hal ini memastikan waktu muat yang cepat, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis atau misal yang menggunakan sistem manajemen konten seperti WordPress.
 
-Dukungan hosting gratis di GitHub Pages dan Cloudflare Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meskipun cara penggunaannya sedikit rumit bagi yang belum terbiasa, keuntungan gratis dan karakteristik statis membuat Jekyll menjadi opsi yang menarik.
+Jekyll berintegrasi dengan baik dengan berbagai layanan cloud, seperti GitHub Pages, Cloudflare Pages, Netlify, atau Vercel. Fleksibilitas ini mempercepat proses pengelolaan dan pemeliharaan situs saya, meskipun cara penggunaannya sedikit rumit bagi yang belum terbiasa, keuntungan gratis dan karakteristik statis membuat Jekyll menjadi opsi yang menarik.
 
 > Bagi yang belum terbiasa dengan konsep situs web statis dan Markdown mungkin membutuhkan waktu untuk beradaptasi, sehingga dapat menjadi tantangan untuk pemula.
 {: .prompt-danger }
 
 ## Jekyll
 
-Open-Source Generator Web Statis
-: Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web statis secara gratis.
+- Open-Source Generator Web Statis
+*Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web statis secara gratis.
 
-Tidak Ada Koneksi ke Database
-: Tidak seperti CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada juga plugin Wordpress to static semacam itu.
+- Tidak Ada Koneksi ke Database
+*Berbeda dengan CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada plugin WordPress yang dapat menghasilkan situs statis, konsep dasar antara Jekyll dan WordPress tetap berbeda.
 
-Performa dan Security
-: Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
+- Performa dan Security
+*Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
 
-Hosting Gratis
-: Jekyll dapat di-host di GitHub Pages dan juga Cloudflare Pages. Ini memungkinkan publikasi web tanpa biaya tambahan.
+- Hosting Gratis
+*Jekyll dapat di-host di berbagai layanan cloud yang gratis. Ini memungkinkan publikasi web tanpa biaya tambahan. Tidak perlu sewa web hosting atau server/vps.
 
-Instalasi Mudah
-: Integrasi Jekyll dan Github Pages dan atau Cloudflare Pages memudahkan kita membuat situs web.
-
-Cocok untuk Situs Web Sederhana
-: Ideal digunakan untuk situs web yang sederhana seperti situs ini.
+- Cocok untuk Situs Web Sederhana
+*Ideal digunakan untuk situs web yang sederhana seperti situs ini.
 
 ## Kesimpulan
 
