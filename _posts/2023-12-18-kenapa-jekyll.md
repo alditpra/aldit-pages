@@ -1,7 +1,7 @@
 ---
-title: ! 'Kenapa Jekyll: Blogging Gratis yang Statis'
+title: ! 'Kenapa Saya Pilih Jekyll?'
 date: 2023-12-18 01:01:00 +0700
-categories: [Web Development, Jekyll]
+categories: [Web dan Server, Static Site]
 tags: [blogging]
 render_with_liquid: false
 pin: true
@@ -10,9 +10,9 @@ image:
   alt: gambar logo jekyll dari repositorynya
 ---
 
-Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis atau misal yang menggunakan sistem manajemen konten seperti WordPress, Drupal, Joomla, dan sebagainya. 
+Sebagai generator situs statis open-source, Jekyll memudahkan kita membuat situs web tanpa perlu server database. Daya tariknya terletak pada karakteristik statis yang dimilikinya, menghasilkan situs web sederhana dengan performa yang lebih optimal dan tingkat keamanan yang lebih baik bila dibandingkan dengan website dinamis atau misal yang menggunakan sistem manajemen konten seperti WordPress. 
 
-Dukungan hosting gratis di GitHub Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meskipun cara penggunaannya sedikit rumit bagi yang belum terbiasa, keuntungan gratis dan karakteristik statis membuat Jekyll menjadi opsi yang menarik.
+Dukungan hosting gratis di GitHub Pages dan Cloudflare Pages juga menjadi alasan saya kenapa memilih Jekyll, cocok untuk blog yang sederhana. Meskipun cara penggunaannya sedikit rumit bagi yang belum terbiasa, keuntungan gratis dan karakteristik statis membuat Jekyll menjadi opsi yang menarik.
 
 > Bagi yang belum terbiasa dengan konsep situs web statis dan Markdown mungkin membutuhkan waktu untuk beradaptasi, sehingga dapat menjadi tantangan untuk pemula.
 {: .prompt-danger }
@@ -29,18 +29,16 @@ Performa dan Security
 : Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
 
 Hosting Gratis
-: Jekyll dapat di-host di GitHub Pages, yang merupakan platform hosting gratis dari GitHub. Ini memungkinkan publikasi web tanpa biaya tambahan. Meskipun untuk paket yang gratisan banyak limitasinya.
+: Jekyll dapat di-host di GitHub Pages dan juga Cloudflare Pages. Ini memungkinkan publikasi web tanpa biaya tambahan.
 
 Instalasi Mudah
-: Integrasi Jekyll dan Github Pages memudahkan kita membuat situs web.
+: Integrasi Jekyll dan Github Pages dan atau Cloudflare Pages memudahkan kita membuat situs web.
 
 Cocok untuk Situs Web Sederhana
 : Ideal digunakan untuk situs web yang sederhana seperti situs ini.
 
 ## Kesimpulan
 
-Menggunakan Jekyll di Github Pages juga banyak kekuranganya. Banyak generator web statis lain seperti Hugo, Gatsby, dan sebagainya. Mungkin lain waktu saja kita bahasnya.
+Antara situs web statis atau dinamis, keduanya memiliki kelebihan masing-masing. Jika kecepatan, keamanan, dan kesederhanaan penting, maka situs web statis bisa menjadi pilihan. Di sisi lain, jika interaktivitas dan fungsionalitas dinamis diperlukan, maka situs web dinamis mungkin lebih sesuai. 
 
-Antara situs web statis atau dinamis, keduanya memiliki kelebihan masing-masing. Jika kecepatan, keamanan, dan kesederhanaan penting, maka situs web statis bisa menjadi pilihan. Di sisi lain, jika interaktivitas dan fungsionalitas dinamis diperlukan, maka situs web dinamis mungkin lebih sesuai.
-
-Untuk membuat situs web ini, saya pilih Jekyll.
+Sebenarnya, banyak generator web statis lain seperti Hugo, Gatsby, NextJS, dan lain sebagainya. Mengapa saya memilih Jekyll? Secara sederhana, itu karena saya menyukai template yang saya gunakan ini. Setelah dimodifikasi sedikit, rasanya sudah cocok dengan selera saya.
