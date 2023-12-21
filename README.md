@@ -4,7 +4,9 @@ December 2023. Suatu hari ketika sedang gabut ngantuk-ngantuk.
 > Cling! Secara tiba-tiba, muncul ide untuk membuat blog sebagai wadah tulisan atau catatan gitu. 
 
 Iseng-iseng cari yang gratisan biar awet, akhirnya jadi dah ini repository.
+
 ...
+
 Dipikir lagi, ntah buat apa.
 ## Credits
 Jekyll: https://github.com/jekyll/jekyll
