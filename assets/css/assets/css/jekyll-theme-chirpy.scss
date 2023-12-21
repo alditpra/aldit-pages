@@ -4,3 +4,7 @@
 @import 'main';
 
 /* append your custom style below */
+.categories {
+    margin-bottom: 0.5rem;
+    border-color: var(--categories-border);
+}
