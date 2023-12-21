@@ -1,6 +1,6 @@
 
 ## Prologue
-December 2023. Suatu hari ketika sedang gabut ngantuk-ngantuk.
+December 2023. Suatu hari ketika sedang gabut..
 > Cling! Secara tiba-tiba, muncul ide untuk membuat blog sebagai wadah tulisan atau catatan gitu. 
 
 Iseng-iseng cari yang gratisan biar awet, akhirnya jadi dah ini repository.
