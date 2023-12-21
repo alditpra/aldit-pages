@@ -1,5 +1,5 @@
 ---
-title: ! 'Kenapa Saya Pilih Jekyll?'
+title: ! 'Kenapa Saya Pilih Jekyll Untuk Situs Ini'
 date: 2023-12-18 01:01:00 +0700
 categories: [Web dan Server, Static Site]
 tags: [blogging]
