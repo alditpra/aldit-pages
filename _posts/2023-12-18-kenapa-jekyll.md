@@ -20,20 +20,20 @@ Jekyll berintegrasi dengan baik dengan berbagai layanan cloud, seperti GitHub Pa
 
 ## Jekyll
 
-1. Open-Source Generator Web Statis:
-Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web statis secara gratis.
+#### 1. Open-Source Generator Web Statis
+: Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat halaman web statis secara gratis.
 
-3. Tidak Ada Koneksi ke Database:
-Berbeda dengan CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada plugin WordPress yang dapat menghasilkan situs statis, konsep dasar antara Jekyll dan WordPress tetap berbeda.
+#### 3. Tidak Ada Koneksi ke Database
+: Berbeda dengan CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada plugin WordPress yang dapat menghasilkan situs statis, konsep dasar antara Jekyll dan WordPress tetap berbeda.
 
-4. Performa dan Security:
-Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
+#### 4. Performa dan Security:
+: Karena statis dan tanpa database, kinerja dan keamanan situs web menjadi lebih baik.
 
-5. Hosting Gratis:
-Jekyll dapat di-host di berbagai layanan cloud yang gratis. Ini memungkinkan publikasi web tanpa biaya tambahan. Tidak perlu sewa web hosting atau server/vps.
+#### 5. Hosting Gratis:
+: Jekyll dapat di-host di berbagai layanan cloud yang gratis. Ini memungkinkan publikasi web tanpa biaya tambahan. Tidak perlu sewa web hosting atau server/vps.
 
-6. Cocok untuk Situs Web Sederhana:
-Ideal digunakan untuk situs web yang sederhana seperti situs ini.
+#### 6. Cocok untuk Situs Web Sederhana:
+:Ideal digunakan untuk situs web yang sederhana seperti situs ini.
 
 ## Kesimpulan
 
