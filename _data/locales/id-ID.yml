@@ -18,7 +18,7 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: Cari apa..
+  hint: coba ketik
   cancel: Gak jadi
   no_results: Ups! Tidak ada hasil yang ditemukan.
 
