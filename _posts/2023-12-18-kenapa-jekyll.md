@@ -1,8 +1,8 @@
 ---
 title: ! 'Mengapa Saya Pilih Jekyll untuk Situs Ini'
 date: 2023-12-18 01:01:00 +0700
-categories: [Web dan Server, Static Site]
-tags: [blogging]
+categories: [Web dan Server, JAMstack]
+tags: [blogging, jekyll]
 render_with_liquid: false
 pin: true
 image:
