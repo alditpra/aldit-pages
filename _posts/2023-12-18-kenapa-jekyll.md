@@ -22,7 +22,7 @@ Situs web statis memiliki waktu pemuatan yang lebih rendah karena tidak perlu me
 #### 4. Cloud Hosting Gratis
 Jekyll dapat di-host di berbagai layanan cloud yang gratis. Ini memungkinkan publikasi web tanpa biaya tambahan. Tidak perlu sewa web hosting maupun server/vps.
 #### 5. Kesederhanaan dan Keterbacaan Kode
-Jekyll menggunakan format Markdown untuk kontennya. Fleksibilitas ini mempercepat proses pengelolaan dan pemeliharaan situs. 
+Jekyll menggunakan format Markdown untuk membuat konten. Fleksibilitas ini mempercepat proses pengelolaan dan pemeliharaan situs. 
 > Namun, untuk mereka yang belum terbiasa dengan konsep situs web statis dan penggunaan Markdown, mungkin membutuhkan waktu untuk beradaptasi. Ini bisa menjadi tantangan, terutama bagi pemula yang belum terbiasa dengan aspek-aspek teknis dari pengembangan web.
 {: .prompt-warning }
 #### 6. Keluwesan Tema yang Luas
