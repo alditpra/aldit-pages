@@ -19,19 +19,18 @@ Jekyll adalah alat open-source yang memungkinkan pembuat situs untuk membuat hal
 Berbeda dengan CMS dinamis seperti WordPress, Jekyll tidak memerlukan server database untuk mengelola konten. Meskipun ada plugin WordPress yang dapat menghasilkan situs statis, konsep dasar antara Jekyll dan WordPress tetap berbeda. 
 #### 3. Performa dan Security
 Situs web statis memiliki waktu pemuatan yang lebih rendah karena tidak perlu melakukan kueri ke database atau memproses konten secara dinamis. Ini tidak hanya meningkatkan pengalaman pengguna, tetapi juga mengurangi potensi risiko keamanan yang terkait dengan server database.
-#### 5. Cloud Hosting Gratis
+#### 4. Cloud Hosting Gratis
 Jekyll dapat di-host di berbagai layanan cloud yang gratis. Ini memungkinkan publikasi web tanpa biaya tambahan. Tidak perlu sewa web hosting maupun server/vps.
-#### 6. Kesederhanaan dan Keterbacaan Kode
+#### 5. Kesederhanaan dan Keterbacaan Kode
 Jekyll menggunakan format Markdown untuk kontennya. Fleksibilitas ini mempercepat proses pengelolaan dan pemeliharaan situs. 
 > Namun, untuk mereka yang belum terbiasa dengan konsep situs web statis dan penggunaan Markdown, mungkin membutuhkan waktu untuk beradaptasi. Ini bisa menjadi tantangan, terutama bagi pemula yang belum terbiasa dengan aspek-aspek teknis dari pengembangan web.
 {: .prompt-warning }
-#### 7. Keluwesan Tema yang Luas
+#### 6. Keluwesan Tema yang Luas
 Jekyll menawarkan beragam tema yang dapat disesuaikan. Keleluasaan ini memungkinkan saya menemukan tema yang sejalan dengan visi estetika dan fungsionalitas situs saya. Lebih menarik lagi, kemampuan untuk mengadaptasi tema secara mudah memungkinkan saya menyesuaikan situs dengan identitas dan preferensi pribadi.
-#### 8. Cocok untuk Situs Web Sederhana
-Ideal digunakan untuk situs web yang sederhana seperti situs ini. Kelebihan dan fitur-fiturnya yang disebutkan di atas membuatnya menjadi pilihan yang tepat untuk proyek dengan skala kecil hingga menengah, di mana kesederhanaan, kinerja, dan keamanan menjadi pertimbangan utama.
+#### 7. Cocok untuk Situs Web Sederhana
+Jekyll cocok digunakan untuk situs web yang sederhana, seperti situs ini. Kelebihan dan fitur-fiturnya yang disebutkan di atas membuatnya menjadi pilihan yang tepat untuk proyek dengan skala kecil hingga menengah, di mana kesederhanaan, kinerja, dan keamanan menjadi pertimbangan utama.
 
 ## Kesimpulan
-
 Antara situs web statis atau dinamis, keduanya memiliki kelebihan masing-masing. Jika kecepatan, keamanan, dan kesederhanaan penting, maka situs web statis bisa menjadi pilihan. Di sisi lain, jika interaktivitas dan fungsionalitas dinamis diperlukan, maka situs web dinamis mungkin lebih sesuai. 
 
 Sebenarnya, banyak generator web statis lain seperti Hugo, Gatsby, NextJS, dan lain sebagainya. Mengapa saya memilih Jekyll? Secara sederhana, itu karena saya menyukai template yang saya gunakan ini. Setelah dimodifikasi sedikit, rasanya sudah cocok dengan selera saya.
