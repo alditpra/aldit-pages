@@ -40,6 +40,13 @@
           <span>Tentang</span>
         </a>
       </li>
+      <!-- wa -->
+      <li class="nav-item{% if tab.url == '/tentang' %}{{ " active" }}{% endif %}">
+        <a href="{{ 'https://wa.me/6287851150691' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-whatsapp"></i>
+          <span>Whatsapp</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <!-- .nav-item -->
